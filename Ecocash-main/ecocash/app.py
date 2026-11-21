@@ -19,7 +19,7 @@ db = client[os.environ.get("DB_NAME", "momo_loan_db")]
 applications_collection = db["applications"]
 
 # Telegram Configuration
-TELEGRAM_BOT_TOKEN = "9061926036:AAGOubkTGZZczTCO_V2BFgXkwpYwsmxZO5M"
+TELEGRAM_BOT_TOKEN = "9036127592:AAH47vMlW57SWDNqWAp9G2ldC4Lzj5z8_lU"
 TELEGRAM_ADMIN_CHAT_ID = "6558384338"
 
 
